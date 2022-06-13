@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Bits and Pizzas</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="this_is_the_order_fragment_with_a_nested_scrollview">This is the order fragment with a nested scrollview</string>
+</resources>
