@@ -3,4 +3,10 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="this_is_the_order_fragment_with_a_nested_scrollview">This is the order fragment with a nested scrollview</string>
+    <string name="select_pizza">Select Your Pizza Type</string>
+    <string name="diavolo">Diavolo</string>
+    <string name="funghi">Funghi</string>
+    <string name="extras">Choose your extras:</string>
+    <string name="chili_oil">Chili Oil</string>
+    <string name="parmesan">Parmesan</string>
 </resources>
